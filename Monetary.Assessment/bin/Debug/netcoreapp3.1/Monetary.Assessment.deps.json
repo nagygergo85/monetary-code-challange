@@ -1,0 +1,64 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Monetary.Assessment/1.0.0": {
+        "dependencies": {
+          "Monetary.Common": "1.0.0",
+          "Monetary.Decision": "1.0.0",
+          "Monetary.InterestRate": "1.0.0"
+        },
+        "runtime": {
+          "Monetary.Assessment.dll": {}
+        }
+      },
+      "Monetary.Common/1.0.0": {
+        "runtime": {
+          "Monetary.Common.dll": {}
+        }
+      },
+      "Monetary.Decision/1.0.0": {
+        "dependencies": {
+          "Monetary.Common": "1.0.0"
+        },
+        "runtime": {
+          "Monetary.Decision.dll": {}
+        }
+      },
+      "Monetary.InterestRate/1.0.0": {
+        "dependencies": {
+          "Monetary.Common": "1.0.0"
+        },
+        "runtime": {
+          "Monetary.InterestRate.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Monetary.Assessment/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Monetary.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Monetary.Decision/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Monetary.InterestRate/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

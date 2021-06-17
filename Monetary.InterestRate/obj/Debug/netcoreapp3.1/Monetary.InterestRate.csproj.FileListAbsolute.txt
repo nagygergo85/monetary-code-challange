@@ -1,0 +1,12 @@
+C:\Users\nagyg\source\repos\Monetary\Monetary.InterestRate\bin\Debug\netcoreapp3.1\Monetary.InterestRate.deps.json
+C:\Users\nagyg\source\repos\Monetary\Monetary.InterestRate\bin\Debug\netcoreapp3.1\Monetary.InterestRate.dll
+C:\Users\nagyg\source\repos\Monetary\Monetary.InterestRate\bin\Debug\netcoreapp3.1\Monetary.InterestRate.pdb
+C:\Users\nagyg\source\repos\Monetary\Monetary.InterestRate\bin\Debug\netcoreapp3.1\Monetary.Common.dll
+C:\Users\nagyg\source\repos\Monetary\Monetary.InterestRate\bin\Debug\netcoreapp3.1\Monetary.Common.pdb
+C:\Users\nagyg\source\repos\Monetary\Monetary.InterestRate\obj\Debug\netcoreapp3.1\Monetary.InterestRate.csproj.AssemblyReference.cache
+C:\Users\nagyg\source\repos\Monetary\Monetary.InterestRate\obj\Debug\netcoreapp3.1\Monetary.InterestRate.AssemblyInfoInputs.cache
+C:\Users\nagyg\source\repos\Monetary\Monetary.InterestRate\obj\Debug\netcoreapp3.1\Monetary.InterestRate.AssemblyInfo.cs
+C:\Users\nagyg\source\repos\Monetary\Monetary.InterestRate\obj\Debug\netcoreapp3.1\Monetary.InterestRate.csproj.CoreCompileInputs.cache
+C:\Users\nagyg\source\repos\Monetary\Monetary.InterestRate\obj\Debug\netcoreapp3.1\Monetary.InterestRate.csproj.CopyComplete
+C:\Users\nagyg\source\repos\Monetary\Monetary.InterestRate\obj\Debug\netcoreapp3.1\Monetary.InterestRate.dll
+C:\Users\nagyg\source\repos\Monetary\Monetary.InterestRate\obj\Debug\netcoreapp3.1\Monetary.InterestRate.pdb

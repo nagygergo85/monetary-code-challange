@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Monetary.Decision/1.0.0": {
+        "dependencies": {
+          "Monetary.Common": "1.0.0"
+        },
+        "runtime": {
+          "Monetary.Decision.dll": {}
+        }
+      },
+      "Monetary.Common/1.0.0": {
+        "runtime": {
+          "Monetary.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Monetary.Decision/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Monetary.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

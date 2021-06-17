@@ -1,0 +1,9 @@
+C:\Users\nagyg\source\repos\Monetary\Monetary.Common\bin\Debug\netcoreapp3.1\Monetary.Common.deps.json
+C:\Users\nagyg\source\repos\Monetary\Monetary.Common\bin\Debug\netcoreapp3.1\Monetary.Common.dll
+C:\Users\nagyg\source\repos\Monetary\Monetary.Common\bin\Debug\netcoreapp3.1\Monetary.Common.pdb
+C:\Users\nagyg\source\repos\Monetary\Monetary.Common\obj\Debug\netcoreapp3.1\Monetary.Common.csproj.AssemblyReference.cache
+C:\Users\nagyg\source\repos\Monetary\Monetary.Common\obj\Debug\netcoreapp3.1\Monetary.Common.AssemblyInfoInputs.cache
+C:\Users\nagyg\source\repos\Monetary\Monetary.Common\obj\Debug\netcoreapp3.1\Monetary.Common.AssemblyInfo.cs
+C:\Users\nagyg\source\repos\Monetary\Monetary.Common\obj\Debug\netcoreapp3.1\Monetary.Common.csproj.CoreCompileInputs.cache
+C:\Users\nagyg\source\repos\Monetary\Monetary.Common\obj\Debug\netcoreapp3.1\Monetary.Common.dll
+C:\Users\nagyg\source\repos\Monetary\Monetary.Common\obj\Debug\netcoreapp3.1\Monetary.Common.pdb

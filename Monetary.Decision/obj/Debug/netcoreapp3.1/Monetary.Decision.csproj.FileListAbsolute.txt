@@ -1,0 +1,12 @@
+C:\Users\nagyg\source\repos\Monetary\Monetary.Decision\bin\Debug\netcoreapp3.1\Monetary.Decision.deps.json
+C:\Users\nagyg\source\repos\Monetary\Monetary.Decision\bin\Debug\netcoreapp3.1\Monetary.Decision.dll
+C:\Users\nagyg\source\repos\Monetary\Monetary.Decision\bin\Debug\netcoreapp3.1\Monetary.Decision.pdb
+C:\Users\nagyg\source\repos\Monetary\Monetary.Decision\bin\Debug\netcoreapp3.1\Monetary.Common.dll
+C:\Users\nagyg\source\repos\Monetary\Monetary.Decision\bin\Debug\netcoreapp3.1\Monetary.Common.pdb
+C:\Users\nagyg\source\repos\Monetary\Monetary.Decision\obj\Debug\netcoreapp3.1\Monetary.Decision.csproj.AssemblyReference.cache
+C:\Users\nagyg\source\repos\Monetary\Monetary.Decision\obj\Debug\netcoreapp3.1\Monetary.Decision.AssemblyInfoInputs.cache
+C:\Users\nagyg\source\repos\Monetary\Monetary.Decision\obj\Debug\netcoreapp3.1\Monetary.Decision.AssemblyInfo.cs
+C:\Users\nagyg\source\repos\Monetary\Monetary.Decision\obj\Debug\netcoreapp3.1\Monetary.Decision.csproj.CoreCompileInputs.cache
+C:\Users\nagyg\source\repos\Monetary\Monetary.Decision\obj\Debug\netcoreapp3.1\Monetary.Decision.csproj.CopyComplete
+C:\Users\nagyg\source\repos\Monetary\Monetary.Decision\obj\Debug\netcoreapp3.1\Monetary.Decision.dll
+C:\Users\nagyg\source\repos\Monetary\Monetary.Decision\obj\Debug\netcoreapp3.1\Monetary.Decision.pdb

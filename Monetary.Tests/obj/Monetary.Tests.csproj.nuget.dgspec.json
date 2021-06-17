@@ -1,0 +1,260 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\Users\\nagyg\\source\\repos\\Monetary\\Monetary.Tests\\Monetary.Tests.csproj": {}
+  },
+  "projects": {
+    "c:\\Users\\nagyg\\source\\repos\\Monetary\\Monetary.Common\\Monetary.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\nagyg\\source\\repos\\Monetary\\Monetary.Common\\Monetary.Common.csproj",
+        "projectName": "Monetary.Common",
+        "projectPath": "c:\\Users\\nagyg\\source\\repos\\Monetary\\Monetary.Common\\Monetary.Common.csproj",
+        "packagesPath": "C:\\Users\\nagyg\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\nagyg\\source\\repos\\Monetary\\Monetary.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nagyg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\Users\\nagyg\\source\\repos\\Monetary\\Monetary.Decision\\Monetary.Decision.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\nagyg\\source\\repos\\Monetary\\Monetary.Decision\\Monetary.Decision.csproj",
+        "projectName": "Monetary.Decision",
+        "projectPath": "c:\\Users\\nagyg\\source\\repos\\Monetary\\Monetary.Decision\\Monetary.Decision.csproj",
+        "packagesPath": "C:\\Users\\nagyg\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\nagyg\\source\\repos\\Monetary\\Monetary.Decision\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nagyg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "c:\\Users\\nagyg\\source\\repos\\Monetary\\Monetary.Common\\Monetary.Common.csproj": {
+                "projectPath": "c:\\Users\\nagyg\\source\\repos\\Monetary\\Monetary.Common\\Monetary.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\Users\\nagyg\\source\\repos\\Monetary\\Monetary.InterestRate\\Monetary.InterestRate.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\nagyg\\source\\repos\\Monetary\\Monetary.InterestRate\\Monetary.InterestRate.csproj",
+        "projectName": "Monetary.InterestRate",
+        "projectPath": "c:\\Users\\nagyg\\source\\repos\\Monetary\\Monetary.InterestRate\\Monetary.InterestRate.csproj",
+        "packagesPath": "C:\\Users\\nagyg\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\nagyg\\source\\repos\\Monetary\\Monetary.InterestRate\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nagyg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "c:\\Users\\nagyg\\source\\repos\\Monetary\\Monetary.Common\\Monetary.Common.csproj": {
+                "projectPath": "c:\\Users\\nagyg\\source\\repos\\Monetary\\Monetary.Common\\Monetary.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\Users\\nagyg\\source\\repos\\Monetary\\Monetary.Tests\\Monetary.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\nagyg\\source\\repos\\Monetary\\Monetary.Tests\\Monetary.Tests.csproj",
+        "projectName": "Monetary.Tests",
+        "projectPath": "c:\\Users\\nagyg\\source\\repos\\Monetary\\Monetary.Tests\\Monetary.Tests.csproj",
+        "packagesPath": "C:\\Users\\nagyg\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\nagyg\\source\\repos\\Monetary\\Monetary.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nagyg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "c:\\Users\\nagyg\\source\\repos\\Monetary\\Monetary.Common\\Monetary.Common.csproj": {
+                "projectPath": "c:\\Users\\nagyg\\source\\repos\\Monetary\\Monetary.Common\\Monetary.Common.csproj"
+              },
+              "c:\\Users\\nagyg\\source\\repos\\Monetary\\Monetary.Decision\\Monetary.Decision.csproj": {
+                "projectPath": "c:\\Users\\nagyg\\source\\repos\\Monetary\\Monetary.Decision\\Monetary.Decision.csproj"
+              },
+              "c:\\Users\\nagyg\\source\\repos\\Monetary\\Monetary.InterestRate\\Monetary.InterestRate.csproj": {
+                "projectPath": "c:\\Users\\nagyg\\source\\repos\\Monetary\\Monetary.InterestRate\\Monetary.InterestRate.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.9.4, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Monetary.Common\Monetary.Common.csproj" />
+    <ProjectReference Include="..\Monetary.Decision\Monetary.Decision.csproj" />
+    <ProjectReference Include="..\Monetary.InterestRate\Monetary.InterestRate.csproj" />
+  </ItemGroup>
+
+</Project>
